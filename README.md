@@ -6,7 +6,7 @@
 >
 > O site sob o nome fictício "MatsMovies" possui layout responsivo para telas em formato desktop, tablets e smartphones.
 >
-> _Obs: O projeto foi 100% desenvolvido em HTML5 e CSS3 puro. Havia uma proposta mínima de layout que  poderia ser alterada de acordo com a preferência do aluno cumprindo os requisitos mínimos exigidos._
+> _Obs: O projeto foi 100% desenvolvido em HTML5 e CSS3 puro, com aplicação de API javaScript. Havia uma proposta mínima de layout que  poderia ser alterada de acordo com a preferência do aluno cumprindo os requisitos mínimos exigidos._
 >
 > 
 >
